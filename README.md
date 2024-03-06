@@ -31,5 +31,3 @@
 3. **End Date Assignment:**
 * The end date for the first row is set to a far-future date ('2100-01-01'), while subsequent rows have an end date of '2023-12-30'.
 
-
-## Thank-You
