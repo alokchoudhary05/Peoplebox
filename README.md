@@ -2,7 +2,7 @@
 
 
 * This script performs data transformation on employee records to extend each employee's data to 15 rows. Below is a concise overview of the methodology and assumptions used:
-
+---
 ## **Methodology:**
 
 1. Loading Input Data:
@@ -19,7 +19,7 @@
 
 4. **Saving Output:**
 * The resulting extended dataset is saved to a CSV file named 'output.csv.'
-
+---
 ## **Assumptions:**
 
 1. **Tenure Calculation:**
@@ -30,7 +30,10 @@
 
 3. **End Date Assignment:**
 * The end date for the first row is set to a far-future date ('2100-01-01'), while subsequent rows have an end date of '2023-12-30'.
+--- 
 
+## **Db Fiddle Link  for Exercise 2 :-**  https://www.db-fiddle.com/f/kpmNeUfcVjoakPD7iVRE1D/1
+---
 ## **Thanks**
 LinkedIn Profile: Alok Choudhary 
 [![LinkedIn](LinkedIn-Connect-blue)](https://linkedin.com/in/alok-choudhary9341776554)
