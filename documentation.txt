@@ -1,0 +1,8 @@
+
+Methodology:
+1. Handled missing values by filling them with previous values.
+2. Extended data to 15 rows per employee with different effective dates.
+Assumptions:
+1. Missing values in the input file are filled with previous values.
+2. Tenure in Org is calculated as the difference between the 'Date of Joining' and 'Date of Exit' in months, rounded to the nearest whole number and displayed as 'x years' if tenure is >= 12 months, otherwise displayed as '1 year'.
+3. Alternate between compensation values of 20000 and 10000 for the extended rows.
