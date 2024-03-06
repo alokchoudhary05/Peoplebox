@@ -33,5 +33,3 @@
 
 
 ## Thank-You
-LinkedIn Profile: Alok Choudhary 
-[![LinkedIn](LinkedIn-Connect-blue)](https://linkedin.com/in/alok-choudhary9341776554)
